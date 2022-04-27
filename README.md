@@ -12,3 +12,5 @@ Read more:
 * ¹https://cursos.alura.com.br/course/vue-parte1
 * ²https://cursos.alura.com.br/course/vue-parte2
 * ³https://github.com/vuejs-templates/webpack-simple
+
+These projects are finished!
